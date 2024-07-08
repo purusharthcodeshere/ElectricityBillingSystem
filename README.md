@@ -1,4 +1,4 @@
-# Electricity Billing System
+# Splash — Electricity Billing System
 
 ## Description
 
